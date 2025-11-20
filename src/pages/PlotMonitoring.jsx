@@ -9,7 +9,11 @@ import schedules from  "../../public/services/schedules.jpg";
 
 import attempts from  "../../public/services/attempts.jpg";
 import Personalized  from  "../../public/services/Personalized.jpg";
+<<<<<<< HEAD
 import plot from  "../../public/careers/plot.jpg"
+=======
+
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
 
 
 
@@ -25,7 +29,11 @@ const PlotMonitoring = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
+<<<<<<< HEAD
           src={plot}
+=======
+          src="../src/assets/careers/plot.jpg"
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}
@@ -51,7 +59,11 @@ const PlotMonitoring = () => {
       {/* Top Icon Row */}
       <section className="py-4 border-bottom">
         <div className="container">
+<<<<<<< HEAD
           <div className="row text-center g-4 mb-5">
+=======
+          <div className="row text-center g-4">
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
             {[
               { label: "Regular Monitoring", icon: "bi-eye" },
               { label: "Reporting", icon: "bi-journal-text" },
@@ -62,7 +74,11 @@ const PlotMonitoring = () => {
             ].map((item, index) => (
               <div key={index} className="col-6 col-md-3 col-lg-2">
                 <div>
+<<<<<<< HEAD
                   <div className="fs-1 text-primary mb-2">
+=======
+                  <div className="fs-1 text-danger mb-2">
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
                     <i className={`bi ${item.icon}`}></i>
                   </div>
                   <div className="fw-semibold">{item.label}</div>
@@ -88,7 +104,11 @@ const PlotMonitoring = () => {
                 encroachment.
               </p>
             </div>
+<<<<<<< HEAD
             <div className="col-md-6 order-md-2 order-2">
+=======
+            <div className="col-md-6">
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
               <img
                 src={encroachment}
                 alt="Regular Monitoring"
@@ -203,7 +223,11 @@ const PlotMonitoring = () => {
       </section>
 
       {/* CTA Section */}
+<<<<<<< HEAD
       {/* <section className="py-5 bg-primary text-white text-center"> */}
+=======
+      <section className="py-5 bg-primary text-white text-center">
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
         <div className="container">
           <h4 className="fw-bold mb-3">NEED MORE INFO? CONTACT US NOW!</h4>
           <p className="mb-4">"Share Your Queries, Make Informed Decisions"</p>
@@ -211,6 +235,7 @@ const PlotMonitoring = () => {
             CONTACT US
           </a>
         </div>
+<<<<<<< HEAD
       {/* </section> */}
 <div
         className="text-center text-darg py-5 "
@@ -226,6 +251,9 @@ const PlotMonitoring = () => {
       </div>
 
 
+=======
+      </section>
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
     </>
   );
 };

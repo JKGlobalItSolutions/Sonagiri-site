@@ -1,5 +1,8 @@
 import React from "react";
+<<<<<<< HEAD
 import plan from "../../public/careers/plan.png"; 
+=======
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
 
 const Plans = () => {
   return (
@@ -30,7 +33,11 @@ const Plans = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
+<<<<<<< HEAD
           src={plan}
+=======
+          src="../src/assets/careers/plan.png"
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}

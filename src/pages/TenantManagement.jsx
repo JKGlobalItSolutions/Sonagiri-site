@@ -12,11 +12,21 @@ import Assistance  from  "../../public/services/Assistance .jpg";
 import Rentals from  "../../public/services/Rentals.jpg";
 
 import Seamless  from  "../../public/services/Seamless.jpg";
+<<<<<<< HEAD
 // import tenant  from  "../../public/services/tenant.jpg";
 // import Rentals from  "../../public/services/Rentals.jpg";
 // import Rentals from  "../../public/services/Rentals.jpg";
 
 import tenant from "../../public/careers/tenant.jpg"; 
+=======
+import tenant  from  "../../public/services/tenant.jpg";
+// import Rentals from  "../../public/services/Rentals.jpg";
+// import Rentals from  "../../public/services/Rentals.jpg";
+
+import protect from "../../public/services/protect.jpg"; 
+
+
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
 
 
 

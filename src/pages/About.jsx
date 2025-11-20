@@ -5,7 +5,11 @@ import trustpatner from "../../public/services/trustpatner.jpg";
 import cities from "../../public/services/cities.jpg";
 import teanetsupport from "../../public/services/teanetsupport.jpg";
 import payment from "../../public/services/payment.jpg";
+<<<<<<< HEAD
 import about from "../../public/careers/about.png";
+=======
+
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
 
 
 
@@ -18,7 +22,11 @@ const About = () => {
         style={{ height: "60vh", width: "100%" }}
       >
         <img
+<<<<<<< HEAD
           src={about}
+=======
+          src="../src/assets/careers/about.png"
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}

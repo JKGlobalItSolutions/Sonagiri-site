@@ -1,7 +1,10 @@
 import React from "react";
 // import "bootstrap/dist/css/bootstrap.min.css";
 // import "bootstrap-icons/font/bootstrap-icons.css";
+<<<<<<< HEAD
 import buliders from "../../public/careers/buliders.jpg";
+=======
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
 
 const BuildingConstruction = () => {
   const steps = [
@@ -97,7 +100,11 @@ const BuildingConstruction = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
+<<<<<<< HEAD
           src={buliders}
+=======
+          src="../src/assets/careers/buliders.jpg"
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
           alt="Managed Property Building"
           className=" object-fit-cover"
           style={{ objectPosition: "center", maxWidth:"100%", maxHeight:"auto" }}

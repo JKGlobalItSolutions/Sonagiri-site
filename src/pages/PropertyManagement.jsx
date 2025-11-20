@@ -41,9 +41,15 @@ const PropertyManagement = () => {
 
 
       {/* Icon Services Row */}
+<<<<<<< HEAD
       <section className="py-3 border-bottom">
         <div className="container-fluid">
           <div className="row text-center g-3 mb-3 ">
+=======
+      <section className="py-4 border-bottom">
+        <div className="container-fluid">
+          <div className="row text-center g-4">
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
             {[
               { label: "Inspect & Evaluation", icon: "bi-search" },
               { label: "Marketing", icon: "bi-megaphone-fill" },
@@ -71,7 +77,10 @@ const PropertyManagement = () => {
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
         {/* Service Details Section */}
       <section className="py-5">
         <div className="container-fluid">
@@ -294,7 +303,11 @@ const PropertyManagement = () => {
 
 
       {/* Contact Us CTA */}
+<<<<<<< HEAD
       <section className="py-5 text-center text-black">
+=======
+      <section className="py-5 text-center bg-dark text-white">
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
         <div className="container">
           <h2 className="fw-bold mb-3">Need More Info? Contact Us Now!</h2>
           <p className="mb-4">Share your queries. Make informed decisions.</p>

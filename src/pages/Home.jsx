@@ -32,9 +32,15 @@ import banner2 from "../../public/banner/banner2.png";
 import banner3 from "../../public/banner/banner3.png";
 import banner4 from "../../public/banner/banner4.png";
 
+<<<<<<< HEAD
 // import banner3 from ""../src/assets/careers/rental.jpeg";
 import rental from "../../public/careers/rental.jpeg";
 import ownership from "../../public/careers/ownership.jpeg";
+=======
+
+
+
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
 
 const Home = () => {
   const [startCount, setStartCount] = useState(false);
@@ -951,7 +957,11 @@ const Home = () => {
           }}>
             {/* Image added */}
             <img
+<<<<<<< HEAD
               src={rental}
+=======
+              src="../src/assets/careers/rental.jpeg"
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
               alt="Rental Agreement"
               style={{
                 position: "absolute",
@@ -1073,7 +1083,11 @@ const Home = () => {
           }}>
             {/* Image added */}
             <img
+<<<<<<< HEAD
               src={ownership}
+=======
+              src="../src/assets/careers/ownership.jpeg"
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
               alt="Ownership Declaration"
               style={{
                 position: "absolute",

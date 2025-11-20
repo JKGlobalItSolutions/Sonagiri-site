@@ -5,7 +5,11 @@ import Handled  from  "../../public/services/Handled.jpg";
 
 import Reliable   from  "../../public/services/Reliable.jpg";
 import Assistance  from  "../../public/services/Assistance.jpg";
+<<<<<<< HEAD
 import Movers from "../../public/careers/packers.jpg";
+=======
+
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
 
 
 
@@ -21,7 +25,11 @@ const PackersMovers = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
+<<<<<<< HEAD
           src={Movers}
+=======
+          src="../src/assets/careers/packers.jpg"
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}

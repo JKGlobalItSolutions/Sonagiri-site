@@ -1,10 +1,21 @@
 import React from "react";
+<<<<<<< HEAD
 import Expert   from  "../../public/services/Expert.jpg";
 import Carpenter    from  "../../public/services/Carpenter.jpg";
 import House from  "../../public/services/House.jpg";
 import Payment  from  "../../public/services/Payment.jpg";
 import Convenient  from  "../../public/services/Convenient.jpg";
 import apartment from "../../public/careers/apartment.jpg";
+=======
+
+import Expert   from  "../../public/services/Expert.jpg";
+import Carpenter    from  "../../public/services/Carpenter.jpg";
+import House from  "../../public/services/House.jpg";
+
+import Payment  from  "../../public/services/Payment.jpg";
+
+import Convenient  from  "../../public/services/Convenient.jpg";
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
 
 
 import {
@@ -24,7 +35,11 @@ const ApartmentMaintenance = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
+<<<<<<< HEAD
           src={apartment}
+=======
+          src="../src/assets/careers/apartment.jpg"
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}

@@ -1,5 +1,8 @@
 import React from "react";
+<<<<<<< HEAD
 import teams from "../../public/careers/teams.jpg"; 
+=======
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
 
 const Career = () => {
   return (
@@ -9,7 +12,11 @@ const Career = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
+<<<<<<< HEAD
           src={teams}
+=======
+          src="../src/assets/careers/teams.jpg"
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}

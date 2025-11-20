@@ -1,6 +1,9 @@
 import React from "react";
+<<<<<<< HEAD
 import realestates from "../../public/careers/realestates.jpg"; 
 
+=======
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
 
 const RealEstate = () => {
   return (
@@ -45,7 +48,11 @@ const RealEstate = () => {
         <div className="row align-items-center">
           <div className="col-md-6">
             <img
+<<<<<<< HEAD
               src={realestates}
+=======
+              src="https://www.sathyaresidency.in/assets/images/service/realestate.jpg"
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
               alt="360 Real Estate - Buying & Selling"
               className="img-fluid rounded shadow"
             />

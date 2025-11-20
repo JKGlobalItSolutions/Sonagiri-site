@@ -3,9 +3,17 @@ import React from "react";
 import Comfortablee  from  "../../public/services/Comfortablee.jpg";
 import Safety   from  "../../public/services/Safety.jpg";
 import Water  from  "../../public/services/Water.jpg";
+<<<<<<< HEAD
 import Housekeeping  from  "../../public/services/Housekeeping.jpg";
 import Explore  from  "../../public/services/Explore.jpg";
 import homestay from "../../public/careers/homestay.jpg";
+=======
+
+import Housekeeping  from  "../../public/services/Housekeeping.jpg";
+
+import Explore  from  "../../public/services/Explore.jpg";
+
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
 
 import {
   FaHome,
@@ -25,7 +33,11 @@ const HappyHomeStay = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
+<<<<<<< HEAD
           src={homestay}
+=======
+          src="../src/assets/careers/homestay.jpg"
+>>>>>>> e40b9daaf09f80ed4020581fb9f347d0111442ec
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}

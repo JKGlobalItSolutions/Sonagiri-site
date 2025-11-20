@@ -10,7 +10,7 @@ const RealEstate = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
-          src="../src/assets/careers/realestate.png"
+          src="../../public/careers/realestate.png"
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}

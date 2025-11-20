@@ -1,12 +1,12 @@
 import React from "react";
 
-import Expert   from  "../assets/services/Expert.jpg";
-import Carpenter    from  "../assets/services/Carpenter.jpg";
-import House from  "../assets/services/House.jpg";
+import Expert   from  "../../public/services/Expert.jpg";
+import Carpenter    from  "../../public/services/Carpenter.jpg";
+import House from  "../../public/services/House.jpg";
 
-import Payment  from  "../assets/services/Payment.jpg";
+import Payment  from  "../../public/services/Payment.jpg";
 
-import Convenient  from  "../assets/services/Convenient.jpg";
+import Convenient  from  "../../public/services/Convenient.jpg";
 
 
 import {

@@ -9,28 +9,28 @@ import PropertyListingsHome from "../pages/PropertyListingsHome.jsx";
 
 // Assets
 
-import visitImg from "../assets/services/visitImg.jpg";
-import maintenanceImg from "../assets/services/maintenanceImg.jpg";
-import tenantImg from "../assets/services/tenantImg.jpg";
-import backgroundImg from "../assets/services/backgroundImg.jpg";
-import rentImg from "../assets/services/rentImg.jpg";
-import marketingImg from "../assets/services/marketingImg.jpg";
-import openHouseImg from "../assets/services/openHouseImg.jpg";
-import leadImg from "../assets/services/leadImg.jpg";
+import visitImg from "../../public/services/visitImg.jpg";
+import maintenanceImg from "../../public/services/maintenanceImg.jpg";
+import tenantImg from "../../public/services/tenantImg.jpg";
+import backgroundImg from "../../public/services/backgroundImg.jpg";
+import rentImg from "../../public/services/rentImg.jpg";
+import marketingImg from "../../public/services/marketingImg.jpg";
+import openHouseImg from "../../public/services/openHouseImg.jpg";
+import leadImg from "../../public/services/leadImg.jpg";
 
 // WHAT WE OFFER
 
-import ownerImg from "../assets/services/owner.jpg";
-import rentalsImg from "../assets/services/rental.jpg";
-import tenant from "../assets/services/tenant.jpg";
+import ownerImg from "../../public/services/owner.jpg";
+import rentalsImg from "../../public/services/rental.jpg";
+import tenant from "../../public/services/tenant.jpg";
 
 
 // banner
-import banner from "../assets/banner/banner.png";
-import banner1 from "../assets/banner/banner1.png";
-import banner2 from "../assets/banner/banner2.png";
-import banner3 from "../assets/banner/banner3.png";
-import banner4 from "../assets/banner/banner4.png";
+import banner from "../../public/banner/banner.png";
+import banner1 from "../../public/banner/banner1.png";
+import banner2 from "../../public/banner/banner2.png";
+import banner3 from "../../public/banner/banner3.png";
+import banner4 from "../../public/banner/banner4.png";
 
 
 

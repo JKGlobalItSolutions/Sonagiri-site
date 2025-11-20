@@ -1,10 +1,10 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-import trustpatner from "../assets/services/trustpatner.jpg";
-import cities from "../assets/services/cities.jpg";
-import teanetsupport from "../assets/services/teanetsupport.jpg";
-import payment from "../assets/services/payment.jpg";
+import trustpatner from "../../public/services/trustpatner.jpg";
+import cities from "../../public/services/cities.jpg";
+import teanetsupport from "../../public/services/teanetsupport.jpg";
+import payment from "../../public/services/payment.jpg";
 
 
 

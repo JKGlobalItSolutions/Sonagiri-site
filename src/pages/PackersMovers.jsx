@@ -1,10 +1,10 @@
 import React from "react";
 
 
-import Handled  from  "../assets/services/Handled.jpg";
+import Handled  from  "../../public/services/Handled.jpg";
 
-import Reliable   from  "../assets/services/Reliable.jpg";
-import Assistance  from  "../assets/services/Assistance.jpg";
+import Reliable   from  "../../public/services/Reliable.jpg";
+import Assistance  from  "../../public/services/Assistance.jpg";
 
 
 

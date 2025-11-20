@@ -4,14 +4,14 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 //  image imports
-import Assessmen from "../assets/services/Assessmen.jpg";
-import Visibility from  "../assets/services/Visibility.jpg";
-import Tenants from  "../assets/services/Tenants.jpg";
-import Documentation  from  "../assets/services/Documentation .jpg";
-import Monitoring from  "../assets/services/Monitoring.jpg";
-import Management from  "../assets/services/Management.jpg";
-import Repairs from  "../assets/services/Repairs.jpg";
-import protect from "../assets/services/protect.jpg"; 
+import Assessmen from "../../public/services/Assessmen.jpg";
+import Visibility from  "../../public/services/Visibility.jpg";
+import Tenants from  "../../public/services/Tenants.jpg";
+import Documentation  from  "../../public/services/Documentation .jpg";
+import Monitoring from  "../../public/services/Monitoring.jpg";
+import Management from  "../../public/services/Management.jpg";
+import Repairs from  "../../public/services/Repairs.jpg";
+import property from "../../public/careers/property.png"; 
 
 
 Assessmen
@@ -26,7 +26,7 @@ const PropertyManagement = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
-          src="../src/assets/careers/property.png"
+          src={property}
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}

@@ -1,12 +1,12 @@
 import React from "react";
 
-import Comfortablee  from  "../assets/services/Comfortablee.jpg";
-import Safety   from  "../assets/services/Safety.jpg";
-import Water  from  "../assets/services/Water.jpg";
+import Comfortablee  from  "../../public/services/Comfortablee.jpg";
+import Safety   from  "../../public/services/Safety.jpg";
+import Water  from  "../../public/services/Water.jpg";
 
-import Housekeeping  from  "../assets/services/Housekeeping.jpg";
+import Housekeeping  from  "../../public/services/Housekeeping.jpg";
 
-import Explore  from  "../assets/services/Explore.jpg";
+import Explore  from  "../../public/services/Explore.jpg";
 
 
 import {

@@ -1,21 +1,22 @@
 import React from 'react'
 
-import Streamlined from  "../assets/services/Streamlined.jpg";
-import Comfortable from  "../assets/services/Comfortable.jpg";
+import Streamlined from  "../../public/services/Streamlined.jpg";
+import Comfortable from  "../../public/services/Comfortable.jpg";
 
-import Maintenance  from  "../assets/services/Maintenance .jpg";
+import Maintenance  from  "../../public/services/Maintenance .jpg";
 
-import Transparent from  "../assets/services/Transparent.jpg";
+import Transparent from  "../../public/services/Transparent.jpg";
 
-import Assistance  from  "../assets/services/Assistance .jpg";
+import Assistance  from  "../../public/services/Assistance .jpg";
 
-import Rentals from  "../assets/services/Rentals.jpg";
+import Rentals from  "../../public/services/Rentals.jpg";
 
-import Seamless  from  "../assets/services/Seamless.jpg";
-// import Rentals from  "../assets/services/Rentals.jpg";
-// import Rentals from  "../assets/services/Rentals.jpg";
+import Seamless  from  "../../public/services/Seamless.jpg";
+import tenant  from  "../../public/services/tenant.jpg";
+// import Rentals from  "../../public/services/Rentals.jpg";
+// import Rentals from  "../../public/services/Rentals.jpg";
 
-import protect from "../assets/services/protect.jpg"; 
+import protect from "../../public/services/protect.jpg"; 
 
 
 
@@ -36,7 +37,7 @@ const TenantManagement = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
-          src="../src/assets/careers/tenant.jpg"
+          src={tenant}
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}

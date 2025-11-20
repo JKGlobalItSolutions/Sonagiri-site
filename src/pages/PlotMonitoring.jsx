@@ -1,14 +1,14 @@
 import React from "react";
 
 
-import encroachment from  "../assets/services/encroachment.jpg";
-import Frequent from  "../assets/services/Frequent.jpg";
+import encroachment from  "../../public/services/encroachment.jpg";
+import Frequent from  "../../public/services/Frequent.jpg";
 
-import regularly from  "../assets/services/regularly.jpg";
-import schedules from  "../assets/services/schedules.jpg";
+import regularly from  "../../public/services/regularly.jpg";
+import schedules from  "../../public/services/schedules.jpg";
 
-import attempts from  "../assets/services/attempts.jpg";
-import Personalized  from  "../assets/services/Personalized.jpg";
+import attempts from  "../../public/services/attempts.jpg";
+import Personalized  from  "../../public/services/Personalized.jpg";
 
 
 

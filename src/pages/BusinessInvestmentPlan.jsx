@@ -1,8 +1,8 @@
 import React from "react";
 
-import Gold  from  "../assets/services/Gold.jpg";
-import Diamond  from  "../assets/services/Diamond.jpg";
-import Platinum  from  "../assets/services/Platinum.jpg";
+import Gold  from  "../../public/services/Gold.jpg";
+import Diamond  from  "../../public/services/Diamond.jpg";
+import Platinum  from  "../../public/services/Platinum.jpg";
 
 
 import { FaRupeeSign, FaGem, FaStar } from "react-icons/fa";

@@ -5,7 +5,7 @@ import Handled  from  "../assets/services/Handled.jpg";
 
 import Reliable   from  "../assets/services/Reliable.jpg";
 import Assistance  from  "../assets/services/Assistance.jpg";
-
+import img1 from "../assets/careers/packers.jpg"
 
 
 
@@ -21,7 +21,7 @@ const PackersMovers = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
-          src="../src/assets/careers/packers.jpg"
+          src={img1}
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}

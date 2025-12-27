@@ -1,6 +1,9 @@
 import React from "react";
 // import "bootstrap/dist/css/bootstrap.min.css";
 // import "bootstrap-icons/font/bootstrap-icons.css";
+import img1 from "../assets/careers/buliders.jpg"
+
+
 
 const BuildingConstruction = () => {
   const steps = [
@@ -96,7 +99,7 @@ const BuildingConstruction = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
-          src="../src/assets/careers/buliders.jpg"
+          src={img1}
           alt="Managed Property Building"
           className=" object-fit-cover"
           style={{ objectPosition: "center", maxWidth:"100%", maxHeight:"auto" }}

@@ -1,5 +1,5 @@
 import React from "react";
-
+import img1 from "../assets/careers/realestate.png"
 const RealEstate = () => {
   return (
     <div className="container-fluid p-0">
@@ -10,7 +10,7 @@ const RealEstate = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
-          src="../src/assets/careers/realestate.png"
+          src={img1}
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}

@@ -4,6 +4,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 //  image imports
+import img1 from "../assets/careers/property.png"
 import Assessmen from "../assets/services/Assessmen.jpg";
 import Visibility from  "../assets/services/Visibility.jpg";
 import Tenants from  "../assets/services/Tenants.jpg";
@@ -26,7 +27,7 @@ const PropertyManagement = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
-          src="../src/assets/careers/property.png"
+          src={img1}
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}

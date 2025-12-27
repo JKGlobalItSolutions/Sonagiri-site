@@ -32,7 +32,7 @@ import banner2 from "../assets/banner/banner2.png";
 import banner3 from "../assets/banner/banner3.png";
 import banner4 from "../assets/banner/banner4.png";
 
-
+import img1 from "../assets/careers/rental.jpeg"
 
 
 
@@ -951,7 +951,7 @@ const Home = () => {
           }}>
             {/* Image added */}
             <img
-              src="../src/assets/careers/rental.jpeg"
+              src={img1}
               alt="Rental Agreement"
               style={{
                 position: "absolute",

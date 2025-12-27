@@ -7,7 +7,7 @@ import House from  "../assets/services/House.jpg";
 import Payment  from  "../assets/services/Payment.jpg";
 
 import Convenient  from  "../assets/services/Convenient.jpg";
-
+import img1 from "../assets/careers/apartment.jpg";
 
 import {
   FaUsersCog,
@@ -26,7 +26,7 @@ const ApartmentMaintenance = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
-          src="../src/assets/careers/apartment.jpg"
+          src={img1}
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}

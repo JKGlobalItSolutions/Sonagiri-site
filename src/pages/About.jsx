@@ -5,7 +5,7 @@ import trustpatner from "../assets/services/trustpatner.jpg";
 import cities from "../assets/services/cities.jpg";
 import teanetsupport from "../assets/services/teanetsupport.jpg";
 import payment from "../assets/services/payment.jpg";
-
+import img1 from "../assets/careers/about.png"
 
 
 
@@ -18,7 +18,7 @@ const About = () => {
         style={{ height: "60vh", width: "100%" }}
       >
         <img
-          src="../src/assets/careers/about.png"
+          src={img1}
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}

@@ -10,7 +10,7 @@ import schedules from  "../assets/services/schedules.jpg";
 import attempts from  "../assets/services/attempts.jpg";
 import Personalized  from  "../assets/services/Personalized.jpg";
 
-
+import img1 from "../assets/careers/plot.jpg"
 
 
  
@@ -25,7 +25,7 @@ const PlotMonitoring = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
-          src="../src/assets/careers/plot.jpg"
+          src={img1}
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}

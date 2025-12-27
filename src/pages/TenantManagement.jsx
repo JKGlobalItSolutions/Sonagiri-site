@@ -2,7 +2,7 @@ import React from 'react'
 
 import Streamlined from  "../assets/services/Streamlined.jpg";
 import Comfortable from  "../assets/services/Comfortable.jpg";
-
+import img1 from "../assets/careers/tenant.jpg"
 import Maintenance  from  "../assets/services/Maintenance .jpg";
 
 import Transparent from  "../assets/services/Transparent.jpg";
@@ -36,7 +36,7 @@ const TenantManagement = () => {
         style={{ height: "auto", width: "100%" }}
       >
         <img
-          src="../src/assets/careers/tenant.jpg"
+          src={img1}
           alt="Managed Property Building"
           className="w-100 h-100 object-fit-cover"
           style={{ objectPosition: "center" }}

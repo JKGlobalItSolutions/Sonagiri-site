@@ -141,15 +141,15 @@ const Contact = () => {
               <ul className="list-unstyled fs-5">
                 <li className="mb-3">
                   <strong style={{ color: "#335393" }}>📍 Address:</strong>{" "}
-                  Tiruvannamalai
+                  Annai Parvathi Nagar, Vengikkal, Tiruvannamalai, Tamil Nadu 606604
                 </li>
                 <li className="mb-3">
                   <strong style={{ color: "#335393" }}>📞 Phone:</strong> +91
-                  1234567890
+                  8608601049
                 </li>
                 <li className="mb-3">
                   <strong style={{ color: "#335393" }}>✉️ Email:</strong>{" "}
-                  contact@Sonachala plusproperties.com
+                  sonagiriofficial@gmail.com
                 </li>
                 <li className="mb-3">
                   <strong style={{ color: "#335393" }}>🕒 Hours:</strong> Mon - Sat:
@@ -163,7 +163,7 @@ const Contact = () => {
         {/* Map Section */}
         <div className="mt-5 rounded-4 overflow-hidden shadow-sm">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13016.43897888782!2d79.06892760000001!3d12.25912115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bacc0fe37442c8d%3A0xe3010b9f3653a0e2!2sVengikkal%2C%20Tiruvannamalai%2C%20Tamil%20Nadu%20606604!5e1!3m2!1sen!2sin!4v1749977419859!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3898.6031298557723!2d79.06316677482904!3d12.275114387979931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bacc1e138ac2625%3A0x8693e592d83a0e80!2sHrify%20Technologies%20pvt%20Ltd!5e0!3m2!1sen!2sin!4v1772884416000!5m2!1sen!2sin"
             width="100%"
             height="450"
             style={{ border: 0 }}

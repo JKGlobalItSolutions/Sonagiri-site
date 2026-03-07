@@ -17,13 +17,13 @@ const Footer = () => {
         <div className="row gy-4">
           {/* Locations */}
           <div className="col-12 col-sm-6 col-md-3">
-            <h4 className="fw-semibold mb-2" style={{ color: "#E67433" }}>
+            {/* <h4 className="fw-semibold mb-2" style={{ color: "#E67433" }}>
               Global Locations (Sales & Marketing Offices)
             </h4>
-            <p className="text-light">Tiruvannamalai</p>
-            <h5 className="mt-3 fw-semibold" style={{ color: "#E67433" }}>
+            <p className="text-light">Tiruvannamalai</p> */}
+            <h4 className="mt-3 fw-semibold" style={{ color: "#E67433" }}>
               India
-            </h5>
+            </h4>
             <p className="text-light">Tiruvannamalai</p>
           </div>
 
@@ -76,14 +76,19 @@ const Footer = () => {
               <FaInstagram />
               <FaYoutube />
             </div>
+
             <p className="d-flex align-items-center gap-2 text-light mb-2">
-              <FaEnvelope /> sales@Sonagiri.com
+              
+                  Annai Parvathi Nagar, Vengikkal, Tiruvannamalai, Tamil Nadu 606604
             </p>
             <p className="d-flex align-items-center gap-2 text-light mb-2">
+              <FaEnvelope /> sonagiriofficial@gmail.com
+            </p>
+            {/* <p className="d-flex align-items-center gap-2 text-light mb-2">
               <FaPhoneAlt /> US: +1-248-275-5811
-            </p>
+            </p> */}
             <p className="d-flex align-items-center gap-2 text-light">
-              <FaPhoneAlt /> India: +91 7277-XXXXXX
+              <FaPhoneAlt /> India: +91 8608601049
             </p>
           </div>
         </div>
